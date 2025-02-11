@@ -1,6 +1,6 @@
 name = "Mingw_jll"
 uuid = "2d94bacf-4d71-535d-a47c-45e808015115"
-version = "11.0.2"
+version = "11.0.3"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
