@@ -1,0 +1,54 @@
+[[Mingw]]
+arch = "x86_64"
+git-tree-sha1 = "c68a754111f05afe14bacf08c550cc10f4ed4229"
+os = "windows"
+
+    [[Mingw.download]]
+    sha256 = "6597d71faed4f38ae1de6813da57047055b5bd3e2385a5c7022178d98788acf0"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-x86_64-w64-mingw32.tar.gz"
+[[Mingw]]
+arch = "i686"
+git-tree-sha1 = "02ce65211f3838561daee4b2a8703094e7ca5e11"
+os = "windows"
+
+    [[Mingw.download]]
+    sha256 = "d26dc23fa652878a9c45abe309bdfad4948b327d9535ba9000faa7b18590e8ab"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-i686-w64-mingw32.tar.gz"
+
+[[Mingw-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "7f945e421908b16c58ee0261faabc8923fb0ffd1"
+lazy = true
+os = "windows"
+
+    [[Mingw-build_log.download]]
+    sha256 = "2af9aa287eeeb5a23a5128ce5b4d11f3010f619dcc9edfb9d465cfec56db19ca"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
+[[Mingw-build_log]]
+arch = "i686"
+git-tree-sha1 = "7dea72ae8ee8a42812815c120d70c30c73abcf06"
+lazy = true
+os = "windows"
+
+    [[Mingw-build_log.download]]
+    sha256 = "b21a29768cce8cc15f0c2cf8bfa2197c2a2a7aa9b698fe605c47c04f12f60a36"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-i686-w64-mingw32.tar.gz"
+
+[[Mingw-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "5ab9ba9f4f4f73165dc53a27c826fdf4130b65f6"
+lazy = true
+os = "windows"
+
+    [[Mingw-extract_log.download]]
+    sha256 = "86cd6b4dfe2a5aee6a866cc40a08c42fc8a2591ff954eb89e274bfd2c7e5829c"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
+[[Mingw-extract_log]]
+arch = "i686"
+git-tree-sha1 = "0096d03353e444a1afee9ea9f795721f91708247"
+lazy = true
+os = "windows"
+
+    [[Mingw-extract_log.download]]
+    sha256 = "cb94fcf90adc4e576108eaf06bd5a6261143f73671574fb7385f3719ba1d134a"
+    url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-i686-w64-mingw32.tar.gz"
