@@ -4,7 +4,7 @@ git-tree-sha1 = "d37c1039397200e76891dc69162ff4a0f0f3da8e"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "310bd70838859fe34fe988e434e69d872f7dae61ef5108d433927615eb857418"
+    sha256 = "8ea9bb92c6f4d9080d138923499db080b2b7463b9162557432b1d7b864b2f600"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw]]
 arch = "i686"
@@ -12,7 +12,7 @@ git-tree-sha1 = "bea992bdad2b10621d96ad0637da9d5b585f2454"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "aae3de315c9e7385968267b5893b91e59bf8550cfbc0cd9159427a1b68959883"
+    sha256 = "3ae53576195a8d1ae892fbad3469710781a7f1d411ba664ba139f4c2c0344352"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-i686-w64-mingw32.tar.gz"
 
 [[Mingw-build_log]]
@@ -22,7 +22,7 @@ lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "321389c077f2574c76628c6ca80347a175574c04ecbcdc1ab1e9d76b1f57ce70"
+    sha256 = "33c1823d418866fc376b793ac868d63a00f8b17a8bd9a1afd675b0db997c35e3"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw-build_log]]
 arch = "i686"
@@ -31,7 +31,7 @@ lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "e22f6dcdbbce40283294a390dfc5b2e064ab98bad78f9da4ca8fbf9426e23b71"
+    sha256 = "792a7f99409f977bf716a4796c3f91bdddd686034b48d4ac3571f752ba3b4889"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-i686-w64-mingw32.tar.gz"
 
 [[Mingw-extract_log]]
@@ -41,7 +41,7 @@ lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "8c5aab1ce5e44695338c628783bbd60f50493bda448dd979505fc719c8b2a3a2"
+    sha256 = "da0cbe5e06d9e041082f69478248b70d0d0bdbb04392ea49d6afb32e5932714d"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw-extract_log]]
 arch = "i686"
@@ -50,5 +50,5 @@ lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "cb08b7a79702368301d432ddf2658916aeb6efb1b5fa863985986027e4b56aac"
+    sha256 = "fb9ef8f5418452df82bf5c0d7d9787c916b3707c42b1376269b119632b3a3829"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-i686-w64-mingw32.tar.gz"
