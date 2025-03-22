@@ -27,14 +27,14 @@ src_version = "11.0.1"
     treehash = "sha1:ed6cabf420d8474db88efd5dfcea8b63fc7b5094"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:33c1823d418866fc376b793ac868d63a00f8b17a8bd9a1afd675b0db997c35e3"
+        tarball_hash = "sha256:b27a341ad57c98bd9ed04dd9f0e9c8ae2ee0df6d63ad755a87e4b85335696e66"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
     treehash = "sha1:b6f3c336911fbb956d8423d3e67d8589749b56af"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:da0cbe5e06d9e041082f69478248b70d0d0bdbb04392ea49d6afb32e5932714d"
+        tarball_hash = "sha256:f5a17bf21e3a1c571d2d77b396b0f94d8dfd626b396d45333ff8458a93915096"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 
     [[builds.products]]
@@ -50,7 +50,7 @@ src_version = "11.0.1"
     treehash = "sha1:d37c1039397200e76891dc69162ff4a0f0f3da8e"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:8ea9bb92c6f4d9080d138923499db080b2b7463b9162557432b1d7b864b2f600"
+        tarball_hash = "sha256:ef7cf7c2eec00902e7923cfb4bb145681b2d3e4924deaa8fb5e08788d913337d"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[builds]]
 name = "Mingw"
@@ -76,14 +76,14 @@ src_version = "11.0.1"
     treehash = "sha1:ba0b83d921504101229c4ffb20c44915d807df9e"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:792a7f99409f977bf716a4796c3f91bdddd686034b48d4ac3571f752ba3b4889"
+        tarball_hash = "sha256:a29ce0647ca4115bc9933853f446dc1f79ae79dd169eb089a0ac7131886b117b"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-build_log-v11.0.1-i686-w64-mingw32.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
     treehash = "sha1:c9b76bcfa1e89f4a28962a8ee05d2ade5a39719d"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:fb9ef8f5418452df82bf5c0d7d9787c916b3707c42b1376269b119632b3a3829"
+        tarball_hash = "sha256:a5666052b927bdc7d0b8c643731ebf6581df4d4d901cb29b9606c1cf30941c70"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-extract_log-v11.0.1-i686-w64-mingw32.tar.gz"
 
     [[builds.products]]
@@ -99,5 +99,5 @@ src_version = "11.0.1"
     treehash = "sha1:bea992bdad2b10621d96ad0637da9d5b585f2454"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:3ae53576195a8d1ae892fbad3469710781a7f1d411ba664ba139f4c2c0344352"
+        tarball_hash = "sha256:70da847a75e4eaf88714fe8b47fca779746590473ac3e0dd4b87a42a83412533"
         url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1/Mingw-v11.0.1-i686-w64-mingw32.tar.gz"
