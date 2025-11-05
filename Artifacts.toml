@@ -1,54 +1,54 @@
 [[Mingw]]
 arch = "x86_64"
-git-tree-sha1 = "60c798bc169d9c878bc22f79910d0d0500f6499f"
+git-tree-sha1 = "ae0b9408134c588a8ab07e2cfdafc8303da0c72f"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "03ac38aab1834e53f4b3817f381531dd029e00a65c3c02d83d0bcf6e88994212"
+    sha256 = "c2a99b9a6dd0b67c19cf5e17fb95b0eb14abab9fb192ce75d8f5eb96f6184d6d"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw]]
 arch = "i686"
-git-tree-sha1 = "c7dd98e0b2b630aa6063e34ecad7310e3f08f0d4"
+git-tree-sha1 = "a4329f5b9baff723f73ae38ee21c4e774025b2b3"
 os = "windows"
 
     [[Mingw.download]]
-    sha256 = "3a03e047ffd6c5a61e63398a996f54b04e442387a2c027a174e986e0d417b375"
+    sha256 = "43e9fb5aec0f7bf5053a3b4094b87cc640bb12c0737d435102f14bdee9d7d037"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-v11.0.1-i686-w64-mingw32.tar.gz"
 
 [[Mingw-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "576a7d0ac9f32a58aa20e5aca08139623b5edca5"
+git-tree-sha1 = "b4a0afb774c1180a7a87b2772e65a7fe224f9498"
 lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "ed0797fa2bb4435a120ecc29fff7771ab2aca80d8caef1ddeffb27fafd4baf10"
+    sha256 = "c0a164b18256767dba6506c755acdff330801814606f1e73eab223f210b1f30d"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-build_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw-build_log]]
 arch = "i686"
-git-tree-sha1 = "da7ddbaf1c5fea57238993c646f0d9eef957a485"
+git-tree-sha1 = "465e6dbf1cf043ad9d8ff87eff233fa13dda5c49"
 lazy = true
 os = "windows"
 
     [[Mingw-build_log.download]]
-    sha256 = "a76282e79ebcaf21d99097e6452edc25fe3f09bdfd2dbcd21afe3fb9f30073c2"
+    sha256 = "4b922ae61a612b39b5a599a09f32b434a5718dcbfc7e8b8c6d66eca0c7bc8e51"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-build_log-v11.0.1-i686-w64-mingw32.tar.gz"
 
 [[Mingw-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "f00e7becb2bc8d1b5231d0fa64480ff0d18b9168"
+git-tree-sha1 = "7ef5a5e43b12167c1081a15c5bc9667a1e47ee93"
 lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "0080108b3550a7798a8781451dcc02de78fe63ab72c14361d22a25d0c83640cf"
+    sha256 = "8544f9c27d2f1b4a5d0d8e5602c42b39289ae7dc51699bad5f9ec91b88c1a1c3"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-extract_log-v11.0.1-x86_64-w64-mingw32.tar.gz"
 [[Mingw-extract_log]]
 arch = "i686"
-git-tree-sha1 = "e85781592dd71f3ea8db59db57ed01b4ba1cd72d"
+git-tree-sha1 = "579a39aebe61f11f0f25a66d392b8e5d1ba57db2"
 lazy = true
 os = "windows"
 
     [[Mingw-extract_log.download]]
-    sha256 = "8a128c32891e73f31028ddb2a16391ca54aba8cdc253104edc337c9e0d426089"
+    sha256 = "8e9787063a8a8cbb0e8d99130526fe7648347cc9df1d629d63dc3cf32e4c8cf6"
     url = "https://github.com/staticfloat/Mingw_jll.jl/releases/download/v11.0.1-GCCBootstrap-x86_64-linux-gnu/Mingw-extract_log-v11.0.1-i686-w64-mingw32.tar.gz"
